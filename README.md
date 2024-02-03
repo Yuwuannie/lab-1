@@ -1,4 +1,4 @@
-#Sky Pixel Identification Application
+# Sky Pixel Identification Application
 This repository contains an application for identifying sky pixels in images. The application is implemented in Python and utilizes computer vision techniques to detect and classify sky pixels within images.
 Sample output is:
 <img width="809" alt="sample output" src="https://github.com/Yuwuannie/lab-1/assets/122579928/ca661141-5dff-4b51-a79c-318311f143cc">
